@@ -1,0 +1,4 @@
+To generate paper titles based on the work of a specific researcher, run:
+# python markov.py "name-of-a-researcher"
+
+Otherwise, import markov.Markov to generate arbitrary long Markov chains
